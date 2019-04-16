@@ -1,5 +1,16 @@
 # Installation this
-Make sure you have Node install
+- Make sure you have [Node](https://nodejs.org/en/) installed and Yarn 
+- Clone this repo and cd to it
+
+Install dependencies
+```
+yarn install
+```
+
+Run the script
+```
+yarn start
+```
 
 ## How this works
 
